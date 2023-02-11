@@ -1,0 +1,13 @@
+ID      Name                     Gender      Date of Birth   HP Number       Email                          Username             Password
+------------------------------------------------------------------------------------------------------------------------------------------------------
+C001    Larry_M_Tellier          Male        10/06/1990      989-482-0174    augustus1994@hotmail.com       octavia.em1992       emie0Thah0m
+C002    Ang_Xu_Tian              Male        12/17/1986      432-210-1888    brenna1979@hotmail.com         angxt456             xutian4332abc
+C003    Patricia_D_Davis         Female      10/06/1985      260-403-2543    donato_medhur@yahoo.com        dostaCUS@C003        C003@19690303
+C004    Morgan_J_Little          Female      06/05/2001      205-623-4920    bernhard1976@yahoo.com         morgana15ruell08     @s5lfd3CqKg7
+C005    Myrna_D_Sanchez          Other       06/19/1996      978-366-1037    quenti1978@yahoo.com           karelle              Ziu8tah4oqu
+C006    Alice_J_Montes           Female      07/21/1996      806-200-1320    ruell.corke@gmailcom           dostaCUS@C006        C006@19720622
+C007    William_E_Ralph          Male        05/09/1983      808-306-5042    ariel.corwi8@hotmail.com       dostaCUS@C007        C007@19720627
+C008    Robert_P_Smith           Male        06/16/1983      410-615-0835    beverly1970@yahoo.com          dostaCUS@C008        C008@19730922
+C009    Jasmin_D_Yates           Female      01/14/1994      331-454-5695    christine_cormi@hotmail.com    dostaCUS@C009        C009@19830620
+C010    Jennifer_J_Flagg         Female      07/06/1988      301-202-7273    whitney.web@yahoo.com          tom_rempel           Wan4Iehei
+C011    Johnathan_Anguilar       Male        12/12/1998      0123456789      anguilarJohn@gmail.com         JohnAng078           angjana567

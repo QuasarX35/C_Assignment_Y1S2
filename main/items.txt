@@ -1,0 +1,15 @@
+ID      Name                 Price       Description
+-----------------------------------------------------------------------------------------------------------------------------
+D001    Black_Coffee         4.00        Ground_Arabica_coffee_beans_infused_in_hot_water.
+D002    Espresso             4.00        A_single_shot_of_Arabica_coffee_beans,_has_a_very_dense_flavour_and_comes_in_a_small_cup
+D003    Americano            6.00        A_shot_of_espresso_diluted_with_hot_water.
+D004    Latte                7.50        1_shot_of_espresso_and_steamed_milk_with_a_little_bit_of_milk_foam_on_top.
+D005    Cappucino            8.00        A_shot_of_espresso_with_more_milk_foam_than_steamed_milk.
+D006    Doppio               6.00        2_shots_of_Arabica_coffee_beans,_very_strong_and_dense_flavour.
+D007    Macchiato            6.50        2_shots_espresso_with_a_little_less_milk_than_a_cappucino.
+D008    Mocha                7.00        1_shot_espresso,_cocoa_powder,_steamed_milk_and_milk_foam.
+D009    Flat_White           6.50        1_shot_espresso_with_steamed_milk_only.
+D010    Cafe_Au_Lait         6.00        Black_coffee_with_hot_milk_only.
+D011    Iced_Coffee          7.00        Iced_coffee_with_a_little_bit_of_milk.
+D012    Iced_Espresso        5.00        Iced_version_of_espresso.
+D013    Soymilk              5.00        Milk_made_from_fresh_soybeans.
